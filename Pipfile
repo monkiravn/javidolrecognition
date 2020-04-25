@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+gunicorn = "*"
+imutils = "==0.5.2"
+opencv-contrib-python = "==4.0.0.21"
+opencv-python = ">=4.1.0"
+mtcnn = "==0.1.0"
+pickleshare = "==0.7.5"
+werkzeug = "==0.16.0"
+tensorflow = "==2.0.0b1"
+scikit-learn = "==0.22.1"
+Flask = "==1.1.2"
+Keras = "==2.3.1"
+Pillow = "==7.0.0"
+
+[requires]
+python_version = "3.7"
