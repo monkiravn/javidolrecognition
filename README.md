@@ -1,4 +1,4 @@
-# javidolrecognition
+# JAV Idol's Face Recognition
 
 It was deployed at https://javidolrecog.herokuapp.com/
 
